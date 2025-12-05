@@ -1,0 +1,33 @@
+body {
+    background-color: #f9f9f9;
+    font-family: Arial, sans-serif;
+}
+
+.section {
+    background: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+
+    border: 2px solid #ccc; /* box model */
+}
+
+#title {
+    color: #333;
+    font-size: 32px;
+}
+
+.profile-img {
+    width: 300px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+a.navlink {
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+a.navlink:hover {
+    color: #ff6600;
+}
